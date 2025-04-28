@@ -117,3 +117,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<h2>RESULT</h2>
+<p>To ImplementA * Search algorithm for a Graph using Python 3 successfully</p>
